@@ -7,8 +7,9 @@ public interface Driver {
 	String IE ="webdriver.ie.driver";
 	String PHANTOM="phantomjs.binary.path";
 	
-	// PATH 
-	String CHROME_PATH="C:\\OnlineTraining\\SDET Oct 2018\\dependencies\\chromedriver.exe";
+	// PATH of the driver 
+	//String CHROME_PATH="C:\\OnlineTraining\\SDET Oct 2018\\dependencies\\chromedriver.exe";
+	String CHROME_PATH="C:\\Users\\SatyaPal\\Desktop\\GBS Selenium traning\\chromedriver.exe";
 	String FIREFOX_PATH ="";
 	String ID="";
 	String PHANTOM_PATH="";
